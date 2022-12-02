@@ -1,4 +1,0 @@
-List of bugs in the program
-=================================================================================================
-line 15: 	After ')' must be ')', operation or ';'!
-No errors found.
