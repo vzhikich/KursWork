@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\5th semestr\SP\KursWork\SP_kurs\SP_kurs\main.cpp(52,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\5th semestr\SP\KursWork\SP_kurs\SP_kurs\main.cpp(73,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+E:\5th semestr\SP\KursWork\SP_kurs\SP_kurs\main.cpp(73,9): message : рекомендуется использовать "%zd" в строке форматирования
+  SP_kurs.vcxproj -> E:\5th semestr\SP\KursWork\SP_kurs\x64\Debug\SP_kurs.exe
